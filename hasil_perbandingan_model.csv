@@ -1,0 +1,5 @@
+Model,Accuracy,Precision,Recall,F1-score
+Naive Bayes (Complement NB),0.622,0.6211,0.622,0.6213
+Logistic Regression,0.6341,0.6524,0.6341,0.6133
+SVM (Linear),0.6585,0.6589,0.6585,0.6564
+IndoBERTweet,0.7073,0.7036,0.7073,0.703
